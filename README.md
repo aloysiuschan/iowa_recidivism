@@ -7,4 +7,4 @@ Since sensitivity is more important than specificity when it comes to predicting
 
 I also note that although sensitivity was improved to 64%, there is still much room for improvement. We can probably improve the model's sensitivity (and specificity) if better features (e.g. history of drug abuse, history of psychological disorders) are made available.
 
-The data, which spans from 2010 to 2017, was obtained from the State of Iowa's data portal: https://data.iowa.gov/Public-Safety/3-Year-Recidivism-for-Offenders-Released-from-Pris/mw8r-vqy4
+The data, which spans from 2010 to 2017 and contains 21646 observations, was obtained from the State of Iowa's data portal: https://data.iowa.gov/Public-Safety/3-Year-Recidivism-for-Offenders-Released-from-Pris/mw8r-vqy4
